@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @avnish0900
-- 👀 I’m interested in solving dsa and competitive coding problems.
+- 👨‍🎓 I am a DSA Instructor and a Problem Setter & Reviewer.
+- 🧐 I am looking for SDE intern and full time role.
+- 🥇 I am 5 star at Codechef and MERN stack Developer.
+- 👀 I’m interested in solving DSA and Competitive coding problems.
 - 🌱 I’m currently learning new Algorithms and strategies to optimize the code for computation.
-- 💞️ I’m looking to collaborate on problem setting work related to DSA and CP.
+- 💞️ I’m looking to collaborate on solving real life problems.
 - 📫 To reach me contact me over avnishkumar0900@gmail.com
 
 <!---
